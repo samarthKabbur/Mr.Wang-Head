@@ -8,3 +8,4 @@ DS3231 RTC
 dc motor
 other electronic essentials (wires, resistors, etc). 
 You can copy this, I guess. 
+All Mr.Wang Head code created by Samarth Kabbur
